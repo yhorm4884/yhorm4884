@@ -3,7 +3,7 @@
 
 I am a junior programmer who is starting to program with small projects. I love learning new things every day :)
 
-What things have I learned throughout my academic life? : PY / MARKUP LANGUAGES /JSON /SQL /DOCKER /VM /KOTLIN
+What things have I learned throughout my academic life? : PY / MARKUP LANGUAGES /JSON /SQL /DOCKER /VM /KOTLIN /BASH /POWERSHELL
 
 - 🔭 Estoy trabajando en few projects 
 
