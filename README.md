@@ -3,7 +3,7 @@
 
 I am a junior programmer who is starting to program with small projects. I love learning new things every day :)
 
-Habilidades: PY / HTML / CSS / XML /JSON
+What things have I learned throughout my academic life? : PY / MARKUP LANGUAGES /JSON /SQL /DOCKER /VM /KOTLIN
 
 - 🔭 Estoy trabajando en few projects 
 
