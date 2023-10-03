@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋, you can call me yhorm
+![](https://github.com/yhorm4884/yhorm4884/blob/main/img/default_background.gif)
 
-<!--
-**yhorm4884/yhorm4884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior programmer who is starting to program with small projects. I love learning new things every day :)
 
-Here are some ideas to get you started:
+Habilidades: PY / HTML / CSS / XML /JSON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en few projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yhorm4884)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yhorm/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhorm4884)](https://github.com/anuraghazra/github-readme-stats)
+
