@@ -1,6 +1,7 @@
 ### Hola 👋, Bienvenido a mi perfil!!.
-<img src="https://github.com/yhorm4884/yhorm4884/blob/main/img/default_background.gif" width="200px">
-
+<center>
+  <img src="https://github.com/yhorm4884/yhorm4884/blob/main/img/default_background.gif" width="600px">
+</center>
 - 🔭 I am a junior programmer who is starting to program with small projects. I love learning new things every day :)
 
 What things have I learned throughout my academic life? : 
