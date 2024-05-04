@@ -1,5 +1,5 @@
 ### Hola 👋, Bienvenido a mi perfil!!.
-![](https://github.com/yhorm4884/yhorm4884/blob/main/img/default_background.gif)
+<img src="https://github.com/yhorm4884/yhorm4884/blob/main/img/default_background.gif" width="200px">
 
 - 🔭 I am a junior programmer who is starting to program with small projects. I love learning new things every day :)
 
