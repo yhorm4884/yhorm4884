@@ -10,6 +10,10 @@ What things have I learned throughout my academic life? :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=60px/><img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" width=60px/>
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" width=100px/><img src="https://github.com/yhorm4884/yhorm4884/blob/552daf01a4ec1fa847d1ad60ab507f559496d2ca/img/docker-svgrepo-com.svg" width=60px />
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width=60px />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width=60px />
+
+
 ----
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yhorm4884)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__badsim__/)  
